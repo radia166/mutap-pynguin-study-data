@@ -1,0 +1,25 @@
+Subject,Tool,Mean Gen Time (s),Mean Mutation Score (%)
+sub1,MuTAP,393.1,60.9
+sub1,Pynguin,192.9,75.6
+sub2,MuTAP,137.7,44.4
+sub2,Pynguin,217.4,30.2
+sub3,MuTAP,285.2,14.5
+sub3,Pynguin,199.2,0
+sub4,MuTAP,1915.5,17.6
+sub4,Pynguin,186.3,10.9
+sub5,MuTAP,1648.7,37.4
+sub5,Pynguin,244,0.3
+sub6,MuTAP,2255,33.2
+sub6,Pynguin,280.1,20.7
+sub7,MuTAP,2417.4,46.2
+sub7,Pynguin,241.9,14.7
+sub8,MuTAP,2284.5,40
+sub8,Pynguin,193.8,11.5
+sub9,MuTAP,2803.4,8.3
+sub9,Pynguin,208.6,22.9
+sub10,MuTAP,48.1,75.6
+sub10,Pynguin,3,75.1
+sub11,MuTAP,424,26.4
+sub11,Pynguin,185.3,15.8
+sub12,MuTAP,401.7,17.6
+sub12,Pynguin,288.3,0
