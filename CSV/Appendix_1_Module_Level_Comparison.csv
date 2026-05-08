@@ -1,4 +1,3 @@
-Appendix_1_Module_Level_Comparison
 dataset,subject,module,pynguin,mutap,pynguin_run_sd,Mutap_run_sd,difference,abs_difference,winner,pynguin_sd,Mutap_sd,Pynguin_cv,Mutap_cv
 Open-Source,sub1,colorama.ansi,64.75,70.83,16.41,0,-6.08,6.08,MuTAP,28.28,23.46,0.88,0.6
 Open-Source,sub2,colorama.ansitowin32,16.12,16.22,3.79,0,-0.1,0.1,Comparable,28.28,23.46,0.88,0.6
