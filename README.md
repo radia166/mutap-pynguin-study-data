@@ -1,7 +1,7 @@
 # mutap-pynguin-study-data
 This repository contains supplementary appendices for the master's thesis:
-Comparative Evaluation of Automated Python Unit Test Generation:
-Pynguin vs. MuTAP Across Open-Source and Industrial Codebases
+A Comparative Evaluation of Search-Based and Mutation-Driven LLM Test Generation: Pynguin and MuTAP
+
 The appendices include raw experimental data, per-module comparisons, and test quality metrics collected across 26 subject modules (14 open-source, 12 industrial) evaluated over 10 repeated runs per tool.
 
 **Repository Contents**
