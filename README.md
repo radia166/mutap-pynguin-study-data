@@ -27,14 +27,14 @@ Equivalent statistics to Appendix 2 for 12 industrial modules. Mutation scores a
 
 **Appendix 4: Mutation Score vs. Coverage Comparison - Open-Source**
 
-File: [Appendix_4_Mutation_vs_Coverage_OpenSource.csv](Appendix_4_Mutation_vs_Coverage_OpenSource.csv)
+File: [Appendix_4_Mutation_vs_Coverage_OpenSource.csv](CSV/Appendix_4_Mutation_vs_Coverage_OpenSource.csv)
 
 Per-module comparison of line coverage, branch coverage, and mutation score for both tools across open-source subjects. 
 Reports mean, minimum, and maximum values across 10 runs. Used to analyse whether structural coverage predicts fault detection capability.
 
 **Appendix 5: Overall Coverage - Industrial**
 
-File: [Appendix_5_Coverage_Industrial.csv](Appendix_5_Coverage_Industrial.csv)
+File: [Appendix_5_Coverage_Industrial.csv](CSV/Appendix_5_Coverage_Industrial.csv)
 
 Mean test count, mean line coverage, and mean branch coverage per industrial module for both tools across 10 runs. 
 Used to compare coverage efficiency between tools in the industrial domain.
